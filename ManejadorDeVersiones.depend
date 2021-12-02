@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1606008165 source:c:\users\hp\desktop\cosas damian\tecnologo informatico\segundo semestre\estructuras de datos y algoritmos\manejadordeversiones\main.cpp
+	<cstdlib>
+	<iostream>
+	<assert.h>
+	"ManejadorDeVersiones.h"
+	"Constantes.h"
+
+1605844896 c:\users\hp\desktop\cosas damian\tecnologo informatico\segundo semestre\estructuras de datos y algoritmos\manejadordeversiones\manejadordeversiones.cpp
+	"ManejadorDeVersiones.h"
+	"constantes.h"
+	<iostream>
+	<string.h>
+
+1607034935 c:\users\hp\desktop\cosas damian\tecnologo informatico\segundo semestre\estructuras de datos y algoritmos\manejadordeversiones\manejadordeversiones.h
+
+1605624676 c:\users\hp\desktop\cosas damian\tecnologo informatico\segundo semestre\estructuras de datos y algoritmos\manejadordeversiones\constantes.h
+
+1607034935 source:c:\users\hp\desktop\cosas damian\tecnologo informatico\segundo semestre\estructuras de datos y algoritmos\manejadordeversiones\manejadordeversiones.cpp
+	"ManejadorDeVersiones.h"
+	"constantes.h"
+	<iostream>
+	<string.h>
+
